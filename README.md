@@ -1,5 +1,4 @@
 # echemSimulation
-Digital Simulation for Electrochemical Experiments
 
 This repo contains some excel files to simulate some electrochemical experiments on single charge transfer reaction.
 * Reaction: A + ne <-> B
