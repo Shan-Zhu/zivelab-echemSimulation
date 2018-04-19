@@ -1,8 +1,10 @@
-# ZiveLab EchemSimulation
+﻿# ZiveLab EchemSimulation
 
 This repo contains excel files to simulate electrochemical experiments on single charge transfer reaction.
 * Reaction: A + ne <-> B
 * Experiments: Cyclic Voltammetry, Chronoamperometry, Electrochemical Impedance Spectroscopy
+
+![Screenshot](/docs/media/Example_CV.png)
 
 ### References
 
